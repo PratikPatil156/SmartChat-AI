@@ -1,0 +1,11 @@
+# Environment variables (contains secret keys)
+.env
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# Python cache
+__pycache__/
+.pytest_cache/
