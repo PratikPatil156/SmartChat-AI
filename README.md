@@ -1,6 +1,6 @@
 # SmartChat AI
 
-SmartChat AI is a conversational interface built on top of LangGraph, Streamlit, and Groq (Llama 3.3). It features stateful conversation memory (via SQLite), custom CSS styling, active thread management, and real-time tool execution status indicators.
+SmartChat AI is a conversational interface built on top of LangGraph, Streamlit, and Groq. It features stateful conversation memory (via SQLite), custom CSS styling, active thread management, and real-time tool execution status indicators.
 
 ## Features
 
